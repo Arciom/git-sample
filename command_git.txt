@@ -5,3 +5,4 @@ git commit -m - to comment a change
 git branch - to cheack which branches we have
 git merge веткаКудаСливаем веткаКоторуюСливаем рекомендуется для работы в глобальных ветках
 git rebase веткаВкоторуюДобавляемИзмеенияИзТекущей  рекомендуется для работы в своих локальных ветках
+git push 
